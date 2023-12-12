@@ -1,0 +1,21 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color:  #521b1b;
+}
+form{
+    box-shadow: 2px 6px 100px #ffffff;
+}
+
+.btn{
+    background-color: #A13333;
+}
+
+.btn:hover {
+    background: #B3541E;
+    color: #461111;
+    text-decoration: none;
+  }
